@@ -28,7 +28,7 @@
  Program her 1 e basildiginda output.nkt dosyasi yeniden olusur.
 
 # Projeyi Gelistirenler
- Berkay Efe Özcan
+ Berkay Efe Özcan,
  Cumali Toprak
 
 
